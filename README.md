@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chobot014
 - 👀 I’m interested in python
-- 🌱 I’m currently learning discord bot programing
+- 🌱 I’m currently learning python, java
 - 💞️ I’m looking to collaborate on discord bot project
 - 📫 How to reach me? - email : mykemichael1@gmail.com | discord : 𝓟𝓾𝓴3𝓵 𝓨𝓣#1055
 
